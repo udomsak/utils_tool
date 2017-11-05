@@ -1,8 +1,6 @@
 # Wordpress backup script 
 
-Wordpress backup เป็น Python script สำหรับใช้ในการ backup wordpress site โดยจะทำงานกับ wp-cli ( wordpress command line utility ). และ 
-tool อื่นๆ 
-
+Wordpress backup เป็น Python script สำหรับใช้ในการ backup wordpress site โดยจะเป็น wrapper wp-cli ( wordpress command line utility ). อีกที
 ## วิธีติดตั้ง
 
 1. ดาวน์โหลดไฟล์ wordpress_backup.py 
